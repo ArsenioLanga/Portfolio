@@ -1,4 +1,4 @@
 # Portfolio
 Portifolio do desenvolvedor
 ## tarefas
-O controle sera no github
+O controle das tarefas desse projecto sera no github
