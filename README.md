@@ -8,4 +8,4 @@ O controle das tarefas desse projecto sera no github
 :package: nova funcionalidade
 :up: actulaizacao
 :beatle: correcao de bug
-:checkere_flag: release
+:checkered_flag: release
