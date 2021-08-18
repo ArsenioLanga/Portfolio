@@ -1,11 +1,12 @@
 # Portfolio
-Portifolio do desenvolvedor
+
+Portfolio do desenvolvedor
 ## tarefas
 O controle das tarefas desse projecto sera no github
 
 
 ## Icones
-:package: nova funcionalidade
-:up: actulaizacao
-:beatle: correcao de bug
-:checkered_flag: release
+- :package: nova funcionalidade
+- :up: actulaizacao
+- :beetle: correcao de bug
+- :checkered_flag: release
