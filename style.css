@@ -256,7 +256,7 @@ header{
     display: grid;
     grid-template-columns: repeat(16, 1fr);
     grid-template-rows: repeat(6, 6rem);
-    row-gap: 1.5rem;
+    row-gap: 0.5rem;
 
 }
 
@@ -552,7 +552,7 @@ header{
 .sessao-orcamento h1{
     position: absolute;
     top: -2.5rem;
-    left: 10rem;
+    left: 3rem;
     padding: 0 3rem;
     background: #6a3093;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
